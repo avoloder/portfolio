@@ -22,5 +22,5 @@
 
 | Date            | Findings                             | Report       |
 |-----------------|--------------------------------------|--------------|
-| July 2025       | 1 High, 3 Low                        | [Report]     |
+| July 2025       | 1 High, 3 Low                        | [Report](https://github.com/avoloder/private_reports/blob/main/Pikamoon_Locker_Program.pdf)|
 
