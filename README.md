@@ -18,6 +18,9 @@
 | August 2024     | TraitForge     | Code4rena        | 3 High, 3 Medium                     | [Report](https://code4rena.com/reports/2024-07-traitforge)|
 | May 2024        | Munchables     | Code4rena        | 1 Medium                             | [Report](https://code4rena.com/reports/2024-05-munchables)|
 
-## Private audits
+## Private engagements
 
+| Date            | Findings                             | Report       |
+|-----------------|--------------------------------------|--------------|
+| July 2025       | 1 High, 3 Low                        | [Report]     |
 
